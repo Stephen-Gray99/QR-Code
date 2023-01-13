@@ -16,12 +16,12 @@ body {
 
 .container {
     background-color: hsl(0deg, 0%, 100%);
-    min-height: 100vh;
-    max-width: 100%;
+    min-height: 75vh;
     border-radius: 0.75rem;
     padding: 12px;
     margin: 0 auto;
     position: absolute;
+    max-width: 22rem;
 }
 
 article {
